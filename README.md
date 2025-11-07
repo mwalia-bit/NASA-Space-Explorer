@@ -20,7 +20,7 @@ This interactive web app lets users browse real NASA images and videos from a se
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure  
 - **CSS3** – NASA-inspired styling, animations, and layout  
